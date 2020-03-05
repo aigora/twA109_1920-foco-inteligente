@@ -13,3 +13,5 @@ Software previsto: C
 Lista de los objetivos que se persiguen con el trabajo propuesto.
 
 Detectar una persona e iluminarla mientras esta de mueve
+## Elementos
+Arduino
