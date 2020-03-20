@@ -1,1 +1,2 @@
 SENSORES Y ACTUADORES
+Foco: es un sistema de iluminación, generalmente dirigible, que concentra la luz a una zona determinada.
