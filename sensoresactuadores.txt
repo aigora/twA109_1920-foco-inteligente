@@ -3,3 +3,9 @@ Foco: sistema de iluminación automático y dirigible hacia una sección del esp
 que será capaz de comunicarse con un sensor que identifica una persona y con una 
 serie de rotores que orientan el foco hacia la posicion del 
 individuo. Esta diseñado para actuaciones en directo en un escenario
+
+Requisitos funcionales:
+1. Una aplicacion para realizar el escaneo del escenario y detectar una persona.
+2. Un vez el sensor ha detectado a una persona, los servomotores giran los grados
+adecuados para orientar el foco hacia la persona.
+3. Este proceso se realiza cada pocos periodos de tiempo.
