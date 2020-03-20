@@ -1,6 +1,7 @@
-SENSORES Y ACTUADORES
-Foco: sistema de iluminación automático y dirigible hacia una sección del espacio,
-que será capaz de comunicarse con un sensor que identifica una persona y con una 
+FOCO INTELIGENTE
+
+Sistema de iluminacion automatico y dirigible hacia una seccion del espacio,
+que sera capaz de comunicarse con un sensor que identifica una persona y con una 
 serie de rotores que orientan el foco hacia la posicion del 
 individuo. Esta diseñado para actuaciones en directo en un escenario
 
@@ -10,10 +11,13 @@ Requisitos funcionales:
 adecuados para orientar el foco hacia la persona.
 3. Este proceso se realiza cada pocos periodos de tiempo.
 
-HARDARE, fundamentos tecnicos:
-Detectores por infrarrojos: Basan su funcionamiento en la variación de 
+Hardware, fundamentos tecnicos:
+Detectores por infrarrojos: Basan su funcionamiento en la variacion de 
 temperatura que se produce con la presencia humana con respecto 
-al mismo espacio cuando está vacío. 
+al mismo espacio cuando esta vacio. 
 Se caracterizan por detectar con mayor precisión los movimientos que cruzan
 su campo de visión con respecto a aquellos movimientos que se producen desde o 
 hacia el dispositivo.
+Servomotor: Un servomotor es un tipo de motor que varia la posicion del eje
+con un determinado angulo entre 0 y 180 grados.
+El eje del motor esta unido a un conjunto de engranjes para realizar el giro.
