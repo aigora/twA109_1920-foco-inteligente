@@ -1,3 +1,5 @@
 SENSORES Y ACTUADORES
-Foco: sistema de iluminación automático y dirigible hacia una sección del espacio, que será capaz de comunicarse con un sensor capaz
-de identificar una persona y con una serie de rotores que orientan el foco hacia la posicion del individuo. Esta diseñado para actuaciones en directo en un escenario
+Foco: sistema de iluminación automático y dirigible hacia una sección del espacio,
+que será capaz de comunicarse con un sensor que identifica una persona y con una 
+serie de rotores que orientan el foco hacia la posicion del 
+individuo. Esta diseñado para actuaciones en directo en un escenario
