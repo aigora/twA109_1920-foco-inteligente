@@ -1,2 +1,1 @@
-Sensores y actuadores
-pruebas 1234
+SENSORES Y ACTUADORES
