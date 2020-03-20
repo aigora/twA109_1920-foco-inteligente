@@ -9,3 +9,11 @@ Requisitos funcionales:
 2. Un vez el sensor ha detectado a una persona, los servomotores giran los grados
 adecuados para orientar el foco hacia la persona.
 3. Este proceso se realiza cada pocos periodos de tiempo.
+
+HARDARE, fundamentos tecnicos:
+Detectores por infrarrojos: Basan su funcionamiento en la variación de 
+temperatura que se produce con la presencia humana con respecto 
+al mismo espacio cuando está vacío. 
+Se caracterizan por detectar con mayor precisión los movimientos que cruzan
+su campo de visión con respecto a aquellos movimientos que se producen desde o 
+hacia el dispositivo.
