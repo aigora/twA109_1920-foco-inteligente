@@ -27,3 +27,8 @@ Para su funcionamiento se encuentra un motor DC en su interior.
 El eje del motor se encaja a una caja de engranajes para realizar el giro.
 Esto permite aumentar el torque del motor y mantener la posicion fija si no hay movimiento.
 El circuito electrónico se dedica a dirigir el giro y la posición del motor.
+Tiene tres cables de conexion externa:
+1 rojo, dedicado a la alimentación.
+1 negro para la conexión a tierra.
+1 amarillo o blanco, que es la línea de control por la que se le envía la señal
+codificada para definir el ángulo de giro.
