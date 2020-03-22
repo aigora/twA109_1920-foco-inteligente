@@ -21,7 +21,8 @@ hacia el dispositivo.
 
 
 
-Servomotor: Un servomotor es un tipo de motor que varia la posicion del eje
+Servomotor: 
+Un servomotor es un tipo de motor que varia la posicion del eje
 con un determinado angulo entre 0 y 180 grados.
 Para su funcionamiento se encuentra un motor DC en su interior.
 El eje del motor se encaja a una caja de engranajes para realizar el giro.
@@ -34,4 +35,21 @@ Tiene tres cables de conexion externa:
 codificada para definir el ángulo de giro.
 El control de servos en Arduino es sencillo, al existir la librería <servo.h>, 
 que permite controlar simultaneamente los 3 servos necesarios en Arduino.
+
+Sensor RCWL-0516:
+El RCWL-0516 es un sensor radar de microondas. 
+Se va a combinar con Arduino para hacer un detector de movimiento.
+El RCWL-0516 es diferente a los detectores de movimiento 
+infrarrojos PIR. En primer lugar, los sensores PIR necesitan que el objeto que se mueve
+tenga una diferencia de temperatura respecto al ambiente. Por este motivo, 
+son capaces de detectar personas, pero no objetos moviles. Por el contrario, 
+el RCWL-0516 detecta cualquier objeto que se mueva, independientemente de su 
+temperatura. Por otro lado, los sensores PIR tienen problemas de sensibilidad cuando 
+la temperatura ambiente es alta. El RCWL-0516, por el contrario, 
+no presenta este problema y funciona correctamente entre -20ºC a 80ºC.
+
+En cuanto alcance de deteccion, puede alcanzar 5-7 metros de rango.
+El RCWL-0516 es omnidireccional, es decir, que detecta el movimiento en 360º. 
+Estas diferencias hacen que el RCWL-0516 sea apropiado para un sistema de 
+iluminacion guiado.
 
