@@ -18,6 +18,12 @@ al mismo espacio cuando esta vacio.
 Se caracterizan por detectar con mayor precisión los movimientos que cruzan
 su campo de visión con respecto a aquellos movimientos que se producen desde o 
 hacia el dispositivo.
+
+
+
 Servomotor: Un servomotor es un tipo de motor que varia la posicion del eje
 con un determinado angulo entre 0 y 180 grados.
-El eje del motor esta unido a un conjunto de engranjes para realizar el giro.
+Para su funcionamiento se encuentra un motor DC en su interior.
+El eje del motor se encaja a una caja de engranajes para realizar el giro.
+Esto permite aumentar el torque del motor y mantener la posicion fija si no hay movimiento.
+El circuito electrónico se dedica a dirigir el giro y la posición del motor.
