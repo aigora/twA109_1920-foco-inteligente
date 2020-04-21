@@ -1,11 +1,19 @@
 # Título del trabajo
-Iluminador inteligente
+Iluminador inteligente.
 
 ## Integrantes del equipo
-Raul Polvorinos, Carlos Mendoza
+Raul Polvorinos, Carlos Mendoza.
+
+## Descripción
+Sistema giratorio en sentido vertical y horizontal con el objetivo de orientar un foco hacia una persona que será detectada con un detector de infrarojos.
 
 ## Objetivos del trabajo
-Foco destinado a iluminación dinámica en un escenario, capaz de detectar a una persona situada a una distancia decente.
-Elementos hardware previstos: sensor visual y mecanismo que controle la orientación del foco (arduino).
-Software previsto: C.
-Lista de los objetivos que se persiguen con el trabajo propuesto: Detectar una persona e iluminarla mientras esta de mueve
+Utilizar sensores para detercat a una persona.
+Enviar esa informacion al PC para enviarla a los servomotores.
+Programar un sistema que permita girar 180 grados en sentido vertical y horizontal.
+
+## Hardware
+PC, arduino, detector por infrarojos, 2 servomotores y foco.
+
+## Software
+Lenguaje C.
