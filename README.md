@@ -13,7 +13,7 @@ Sistema giratorio en sentido vertical y horizontal con el objetivo de orientar u
 - Programar un sistema que permita girar 180 grados en sentido vertical y horizontal.
 
 ## Hardware
-PC, arduino, detector por infrarojos, 2 servomotores y foco.
+PC, arduino, camara, 2 servomotores y foco.
 
 ## Software
 Lenguaje C.
