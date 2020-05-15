@@ -1,19 +1,19 @@
 # Título del trabajo
-Iluminador inteligente.
+Pac Man.
 
 ## Integrantes del equipo
 Raul Polvorinos, Carlos Mendoza.
 
 ## Descripción
-Sistema giratorio en sentido vertical y horizontal con el objetivo de orientar un foco hacia una persona que será detectada con un detector de infrarojos.
+Juego clasico del comecocos, el usuario tendra que controlar con el teclado el movimiento del Pac Man por la pantalla intentando comerse a los fantasmas. Habra un fichero donde se almacenaran los resultados de los distintos jugadores.
 
 ## Objetivos del trabajo
-- Utilizar sensores para detectar a una persona. 
-- Enviar esa informacion al PC para enviarla a los servomotores. 
-- Programar un sistema que permita girar 180 grados en sentido vertical y horizontal.
+- Se puedan buscar resultados del juego dentro del fichero.
+- Poder controlar a Pac Man de manera sencilla.
+- Los fantasmas se muevan de manera inteligente.
 
 ## Hardware
-PC, arduino, camara, 2 servomotores y foco.
+PC.
 
 ## Software
 Lenguaje C.
