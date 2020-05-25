@@ -9,7 +9,7 @@ Juego clasico del comecocos, el usuario tendra que controlar con el teclado el m
 
 Habra un fichero donde se almacenaran los resultados de las distintas partidas.
 
-Habra un menu principal que te permitira acceder a las mejores partidas, a las ultimas partidas, a unos creditos, a jugar al propio juego y por supuesto a salir de la aplicacion.
+Habra un menu principal que te permitira jugar al propio juego, acceder a las mejores partidas, a las ultimas partidas, a ver unas instrucciones de juego, a unos creditos y por supuesto a salir de la aplicacion.
 
 ## Objetivos del trabajo
 - Se puedan buscar el numero de resultados de tus partidas jugadas dentro del fichero.
