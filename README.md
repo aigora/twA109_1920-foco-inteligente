@@ -6,7 +6,8 @@ Raul Polvorinos, Carlos Mendoza.
 
 ## Descripción
 Juego clasico del comecocos, el usuario tendra que controlar con el teclado el movimiento del Pac Man por la pantalla intentando comerse las maximas frutas posibles y evitando a los fantasmas.
-Habra un fichero donde se almacenaran los resultados de las distintas partidas. Habra un menu principal que te permitira acceder a las mejores partidas, a las ultimas partidas, a unos creditos, a jugar al propio juego y por supuesto a salir de la aplicacion.
+Habra un fichero donde se almacenaran los resultados de las distintas partidas.
+Habra un menu principal que te permitira acceder a las mejores partidas, a las ultimas partidas, a unos creditos, a jugar al propio juego y por supuesto a salir de la aplicacion.
 
 ## Objetivos del trabajo
 - Se puedan buscar el numero de resultados de tus partidas jugadas dentro del fichero.
