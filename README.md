@@ -16,7 +16,7 @@ Habrá un menú principal que te permitirá jugar al propio juego, acceder a las
 - Poder controlar a Pac Man de manera sencilla, pudiendo trazar rutas en el mapa introduciendo varios comandos de dirección uno tras otro.
 - Evitar todo tipo de bugs respecto a la puntuación, el movimiento, el leaderboard, etc.
 - Guía de como jugar, elementos del mapa y  comandos de movimiento.
-- Los fantasmas se moverán de forma aleatoria y terminan con la partida automaticámente si chocas contra uno.
+- Los fantasmas se moverán de forma aleatoria y terminan con la partida automáticamente si chocas contra uno.
 
 ## Hardware
 PC.
